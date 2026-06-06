@@ -1,0 +1,33 @@
+company_name,sector,geography,fund,entry_date,entry_ev,current_ev,revenue,ebitda,revenue_growth,revenue_growth_plan,ebitda_margin,margin_change,net_debt,net_debt_ebitda,ownership_percentage,valuation_multiple,multiple_change,status,last_updated
+Alto Health Partners,Healthcare,France,FASO,2019-04-12,380,560,245,48,12.4,10.0,19.6,1.2,172,3.6,74,11.7,0.5,Active,2026-03-12
+Ardent Clinical,Healthcare,United Kingdom,FASO,2020-09-03,290,315,188,28,-12.8,5.0,14.9,-4.8,162,5.8,68,11.3,-1.8,Active,2026-03-08
+Bexley Compliance,Business Services,United Kingdom,FASO,2021-02-18,250,390,170,41,14.8,11.0,24.1,2.0,131,3.2,71,9.5,0.3,Active,2026-03-18
+Cirrus Facilities,Business Services,Germany,FASO,2019-11-21,410,485,340,39,-3.5,6.0,11.5,-3.7,218,5.6,65,12.4,-1.2,Active,2025-11-22
+DeltaMed Devices,Healthcare,Italy,FASO,2022-05-06,330,470,210,52,18.1,14.0,24.8,2.4,145,2.8,77,9.0,0.8,Active,2026-03-15
+Evergreen Testing,Business Services,Netherlands,FASO,2021-07-14,275,360,198,44,9.6,9.0,22.2,0.5,141,3.2,69,8.2,0.1,Active,2026-02-27
+Helix Diagnostics,Healthcare,Spain,FASO,2020-01-30,460,690,280,68,16.5,12.0,24.3,1.8,211,3.1,73,10.1,0.7,Active,2026-03-20
+Meridian Advisory,Business Services,France,FASO,2018-06-19,220,310,156,37,7.2,8.0,23.7,-0.4,122,3.3,62,8.4,-0.2,Realization planned,2026-03-01
+Atlas Workflow,Software,United Kingdom,FASA,2020-03-11,310,620,145,45,25.2,20.0,31.0,3.1,126,2.8,72,13.8,1.4,Active,2026-03-19
+BrightLayer Systems,Software,Germany,FASA,2021-08-24,420,510,182,39,8.3,14.0,21.4,-3.4,203,5.2,67,13.1,-1.4,Active,2026-03-03
+CloudHarbor,Software,Netherlands,FASA,2022-02-16,280,455,121,35,22.6,18.0,28.9,2.7,91,2.6,76,13.0,0.9,Active,2026-03-21
+CoreLedger,Software,France,FASA,2019-10-08,350,440,162,32,-11.6,9.0,19.8,-4.1,182,5.7,64,13.8,-2.2,Active,2025-12-01
+DataNorth,Software,Sweden,FASA,2021-04-27,260,530,128,42,28.4,22.0,32.8,4.5,105,2.5,79,12.6,1.8,Active,2026-03-23
+FinEdge Platform,Software,Italy,FASA,2020-07-02,385,590,205,51,17.3,15.0,24.9,1.5,173,3.4,71,11.6,0.4,Active,2026-03-14
+Nexus Security,Software,Spain,FASA,2022-09-09,295,375,104,22,10.1,17.0,21.2,-2.9,117,5.3,74,17.0,-1.3,Active,2026-02-20
+Orbit Planning,Software,United Kingdom,FASA,2019-01-15,190,340,98,31,19.8,16.0,31.6,2.2,78,2.5,66,11.0,0.6,Realization planned,2026-03-10
+Aster Dental Group,Healthcare,Germany,FAPEP,2021-03-05,520,610,310,54,6.8,8.0,17.4,-0.8,232,4.3,42,11.3,-0.4,Active,2026-03-06
+Beacon Mobility,Business Services,France,FAPEP,2022-06-17,340,405,225,38,11.5,10.0,16.9,0.7,163,4.3,38,10.7,0.2,Active,2026-03-12
+CarePath Clinics,Healthcare,Spain,FAPEP,2020-12-09,470,430,,41,,7.0,18.1,-1.6,226,5.5,45,10.5,-1.1,Active,2025-10-18
+Expertis Network,Business Services,United Kingdom,FAPEP,2021-11-26,300,465,190,46,15.9,12.0,24.2,2.3,138,3.0,41,10.1,0.6,Active,2026-03-16
+Lumina Pharma Services,Healthcare,Italy,FAPEP,2022-01-20,390,575,240,62,20.4,16.0,25.8,2.8,167,2.7,44,9.3,0.8,Active,2026-03-22
+Northstar Payroll,Business Services,Netherlands,FAPEP,2019-09-13,270,360,175,39,4.2,9.0,22.3,-3.2,195,5.0,39,9.2,-1.2,Active,2026-01-12
+Optima Care,Healthcare,United Kingdom,FAPEP,2020-05-29,440,650,295,71,13.7,11.0,24.1,1.3,227,3.2,46,9.2,0.5,Active,2026-03-17
+Veritas Assurance,Business Services,Germany,FAPEP,2021-07-07,315,490,210,56,18.8,14.0,26.7,3.0,157,2.8,43,8.8,0.7,Active,2026-03-19
+Arcadia AI,Software,France,FAGT,2022-04-14,210,480,72,12,37.5,30.0,16.7,5.1,18,1.5,31,40.0,4.5,Active,2026-03-24
+BluePeak Automation,Software,Germany,FAGT,2023-01-27,260,405,96,18,29.2,25.0,18.8,3.8,43,2.4,35,22.5,2.0,Active,2026-03-20
+Clarity HealthTech,Healthcare,United Kingdom,FAGT,2022-10-04,185,290,68,9,21.4,24.0,13.2,-0.9,29,3.2,33,32.2,-0.5,Active,2026-03-11
+Gridline Cloud,Software,Sweden,FAGT,2021-12-16,230,370,84,16,18.2,27.0,19.0,-3.6,85,5.3,37,23.1,-1.6,Active,2026-02-28
+InnovaCX,Software,Netherlands,FAGT,2023-05-11,170,245,61,8,24.8,26.0,13.1,1.2,24,3.0,29,30.6,0.4,Active,2026-03-18
+QuantumOps,Software,Spain,FAGT,2022-08-22,240,215,75,6,-14.2,20.0,8.0,-6.2,37,6.2,34,35.8,-3.4,Active,2025-09-20
+SignalBridge,Software,Italy,FAGT,2021-06-08,195,330,81,15,31.6,27.0,18.5,4.0,33,2.2,32,22.0,1.7,Active,2026-03-21
+Vertex Commerce,Software,United Kingdom,FAGT,2022-03-31,275,420,118,24,26.1,23.0,20.3,2.6,67,2.8,36,17.5,1.1,Active,2026-03-23

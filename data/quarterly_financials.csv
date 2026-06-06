@@ -1,0 +1,33 @@
+company_name,quarter_end,revenue,ebitda,revenue_growth,ebitda_margin,net_debt,valuation_multiple,submission_status
+Alto Health Partners,2026-03-31,245,48,12.4,19.6,172,11.7,Received
+Ardent Clinical,2026-03-31,188,28,-12.8,14.9,162,11.3,Received
+Bexley Compliance,2026-03-31,170,41,14.8,24.1,131,9.5,Received
+Cirrus Facilities,2025-09-30,340,39,-3.5,11.5,218,12.4,Overdue
+DeltaMed Devices,2026-03-31,210,52,18.1,24.8,145,9.0,Received
+Evergreen Testing,2026-03-31,198,44,9.6,22.2,141,8.2,Received
+Helix Diagnostics,2026-03-31,280,68,16.5,24.3,211,10.1,Received
+Meridian Advisory,2026-03-31,156,37,7.2,23.7,122,8.4,Received
+Atlas Workflow,2026-03-31,145,45,25.2,31.0,126,13.8,Received
+BrightLayer Systems,2026-03-31,182,39,8.3,21.4,203,13.1,Received
+CloudHarbor,2026-03-31,121,35,22.6,28.9,91,13.0,Received
+CoreLedger,2025-12-31,162,32,-11.6,19.8,182,13.8,Late
+DataNorth,2026-03-31,128,42,28.4,32.8,105,12.6,Received
+FinEdge Platform,2026-03-31,205,51,17.3,24.9,173,11.6,Received
+Nexus Security,2026-03-31,104,22,10.1,21.2,117,17.0,Received
+Orbit Planning,2026-03-31,98,31,19.8,31.6,78,11.0,Received
+Aster Dental Group,2026-03-31,310,54,6.8,17.4,232,11.3,Received
+Beacon Mobility,2026-03-31,225,38,11.5,16.9,163,10.7,Received
+CarePath Clinics,2025-09-30,,,0,0,226,10.5,Overdue
+Expertis Network,2026-03-31,190,46,15.9,24.2,138,10.1,Received
+Lumina Pharma Services,2026-03-31,240,62,20.4,25.8,167,9.3,Received
+Northstar Payroll,2025-12-31,175,39,4.2,22.3,195,9.2,Late
+Optima Care,2026-03-31,295,71,13.7,24.1,227,9.2,Received
+Veritas Assurance,2026-03-31,210,56,18.8,26.7,157,8.8,Received
+Arcadia AI,2026-03-31,72,12,37.5,16.7,18,40.0,Received
+BluePeak Automation,2026-03-31,96,18,29.2,18.8,43,22.5,Received
+Clarity HealthTech,2026-03-31,68,9,21.4,13.2,29,32.2,Received
+Gridline Cloud,2026-03-31,84,16,18.2,19.0,85,23.1,Received
+InnovaCX,2026-03-31,61,8,24.8,13.1,24,30.6,Received
+QuantumOps,2025-09-30,75,6,-14.2,8.0,37,35.8,Overdue
+SignalBridge,2026-03-31,81,15,31.6,18.5,33,22.0,Received
+Vertex Commerce,2026-03-31,118,24,26.1,20.3,67,17.5,Received
